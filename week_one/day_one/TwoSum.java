@@ -1,4 +1,4 @@
-package week_1.day_1;
+package week_one.day_one;
 
 public class TwoSum {
 
