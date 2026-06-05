@@ -1,4 +1,4 @@
-package week_one.day_three;
+package day3;
 
 public class MoveZeroes {
     public void moveZeroes(int[] nums) {

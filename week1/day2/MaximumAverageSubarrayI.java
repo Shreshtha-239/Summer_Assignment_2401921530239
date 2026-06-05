@@ -1,4 +1,4 @@
-package week_one.day_two;
+package day2;
 
 public class MaximumAverageSubarrayI {
     public double findMaxAverage(int[] nums, int k) {

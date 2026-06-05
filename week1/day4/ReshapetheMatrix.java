@@ -1,4 +1,4 @@
-package week_one.day_four;
+package day4;
 
 public class ReshapetheMatrix {
     public int[][] matrixReshape(int[][] mat, int r, int c) {

@@ -1,4 +1,4 @@
-package week_one.day_four;
+package day4;
 
 public class MatrixDiagonalSum {
       public int diagonalSum(int[][] mat) {

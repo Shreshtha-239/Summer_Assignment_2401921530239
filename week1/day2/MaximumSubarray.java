@@ -1,4 +1,4 @@
-package week_one.day_two;
+package day2;
 
 public class MaximumSubarray {
     public int maxSubArray(int[] nums) {

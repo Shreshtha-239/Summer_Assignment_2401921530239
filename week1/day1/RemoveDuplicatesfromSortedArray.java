@@ -1,4 +1,4 @@
-package week_one.day_one;
+package day1;
 
 public class RemoveDuplicatesfromSortedArray {
     public int removeDuplicates(int[] nums) {
